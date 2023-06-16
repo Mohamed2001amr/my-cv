@@ -396,7 +396,7 @@ section{
     }
 
     .cards .card,.projects .project-card,.contact .card
-    { width: 50%; }
+    { width: 50%; margin-left: 0; }
 }
 
 /* End media design */
