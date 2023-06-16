@@ -386,6 +386,30 @@ section{
     .personal .my-img img{
         height: 22em;
     }
+
+    .projects .project-card{
+        width: 30em;
+    }
+
+    .projects .project-info .project-category{
+        font-size: 1.2em;
+    }
+
+    .projects .project-info .project-title{
+        font-size: 1.3em;
+    }
+
+    .cards .card{
+        width: 30em;
+    }
+
+    .cards .card .info h3{
+        font-size: 1.3em;
+    }
+
+    .contact .info p{
+        font-size: 1.2em;
+    }
 }
 
 @media (max-width:300px) {
@@ -396,7 +420,7 @@ section{
     .cards .card,
     .projects .project-card,
     .contact .card{
-        margin-left: 0;
+        margin: auto;
     }
 
 }
