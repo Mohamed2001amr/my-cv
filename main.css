@@ -386,8 +386,6 @@ section{
     .personal .my-img img{
         height: 22em;
     }
-
-
 }
 
 @media (max-width:300px) {
@@ -395,8 +393,6 @@ section{
         font-size: 10px;
     }
 
-    .cards .card,.projects .project-card,.contact .card
-    { width: 50%; margin-left: 0; }
 }
 
 /* End media design */
