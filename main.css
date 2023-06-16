@@ -393,6 +393,12 @@ section{
         font-size: 10px;
     }
 
+    .cards .card,
+    .projects .project-card,
+    .contact .card{
+        margin-left: 0;
+    }
+
 }
 
 /* End media design */
