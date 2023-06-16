@@ -412,9 +412,13 @@ section{
     }
 }
 
-@media (max-width:600px) {
+@media (max-width:450px) {
     body{
         font-size: 10px;
+    }
+
+    .title{
+        font-size: 2.8em;
     }
 
     .cards .card{
