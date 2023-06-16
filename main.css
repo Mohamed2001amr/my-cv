@@ -417,6 +417,8 @@ section{
         font-size: 10px;
     }
 
+    .cards .card,.projects .project-card,.contact .card
+    { width: 50%; }
 }
 
 /* End media design */
