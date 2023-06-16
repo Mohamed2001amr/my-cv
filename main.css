@@ -417,10 +417,17 @@ section{
         font-size: 10px;
     }
 
-    .cards .card,
-    .projects .project-card,
+    .cards .card{
+        margin: 15px 0 15px 0;
+        padding: 25px 0 25px 0;
+    }
+    .projects .project-card{
+        margin: 20px 0 20px 0;
+        width: 60%;
+    }
     .contact .card{
-        margin: auto;
+        margin: 15px 0 15px 0;
+        padding: 25px 0 25px 0;
     }
 
 }
